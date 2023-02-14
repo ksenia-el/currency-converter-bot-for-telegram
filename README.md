@@ -6,10 +6,10 @@ Can be found in Telegram by the name "Currency Exchange Bot (QAL project)" or by
 
 This Bot knows the following commands:
 
-/start command - to reply with welcoming message and info about main commands to use
+/start command - to reply with the welcoming message and info about the main commands to use
 /try command - to ask for 3 values required and execute currency conversion
 /values command - to provide info about all curencies available to use with Bot
-/help command - to return all commands available to use with Bot
+/help command - to return all commands available in Bot
 /info command - to show all main info about Bot
 
 Has separate handlers for user and system errors. 
