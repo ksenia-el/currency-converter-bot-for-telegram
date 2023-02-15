@@ -2,8 +2,6 @@
 
 Simple Telegram-bot to execute currency conversion (calculates total price for purchasing some amount of some currency).
 
-Can be found in Telegram by the name "Currency Exchange Bot (QAL project)" or by username @currency_exchange_info_bot
-
 This Bot knows the following commands:
 
 /start command - to reply with the welcoming message and info about the main commands to use
